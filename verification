@@ -1,5 +1,5 @@
 local hwid = {}
-local hwid.Id = {
+local hwid.id = {
 "82248632-BD2C-4F5E-94BC-F1A545E3840F"
 }
 return hwid
